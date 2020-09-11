@@ -1,1 +1,1 @@
-# Binary-Seach
+# Binary-Search
